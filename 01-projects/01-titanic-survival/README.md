@@ -1,20 +1,8 @@
-# Titanic Survival Prediction
+# School of AI – Data Scientist Internship Portfolio
 
-## Project Overview
+Welcome to my Data Science Internship Portfolio.
 
-This project predicts whether a passenger survived the Titanic disaster using Machine Learning.
-
----
-
-## Objectives
-
-- Perform Exploratory Data Analysis (EDA)
-- Clean the dataset
-- Engineer useful features
-- Train machine learning models
-- Evaluate model performance
-
----
+This repository contains 25 end-to-end Data Science and Machine Learning projects completed during the School of AI Data Scientist Internship.
 
 ## Tech Stack
 
@@ -23,23 +11,35 @@ This project predicts whether a passenger survived the Titanic disaster using Ma
 - NumPy
 - Matplotlib
 - Seaborn
-- Scikit-Learn
+- Scikit-learn
 - Jupyter Notebook
+- Git & GitHub
 
----
-
-## Folder Structure
+## Repository Structure
 
 ```
-data/
-notebooks/
-reports/
-src/
-README.md
+school-of-ai-data-science-internship/
+│
+├── 00-internship-setup/
+├── 01-projects/
+│   ├── 01-titanic-survival/
+│   ├── 02-house-price-regression/
+│   ├── ...
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
 ```
 
----
+## Projects
 
-## Status
+| No. | Project | Status |
+|-----|---------|--------|
+| 01 | Titanic Survival Prediction | 🚧 In Progress |
+| 02 | House Price Regression | ⏳ Planned |
+| 03 | Iris Classification | ⏳ Planned |
+| ... | ... | ... |
 
-🚧 Project setup completed.
+## Author
+
+**Inshrah Mumtaz**
