@@ -107,13 +107,27 @@ Random Forest produced the best overall performance.
 
 ## Visualizations
 
-Generated figures include:
+### Survival by Sex
 
-- Survival by Sex
-- Survival by Passenger Class
-- Age Distribution
-- Confusion Matrix
+![Survival by Sex](reports/figures/survival_by_sex.png)
 
+---
+
+### Survival by Passenger Class
+
+![Survival by Passenger Class](reports/figures/survival_by_pclass.png)
+
+---
+
+### Age Distribution
+
+![Age Distribution](reports/figures/age_distribution.png)
+
+---
+
+### Confusion Matrix
+
+![Confusion Matrix](reports/figures/confusion_matrix.png)
 ---
 
 ## How to Run
