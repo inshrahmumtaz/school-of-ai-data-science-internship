@@ -1,0 +1,15 @@
+# Datasets
+*.csv
+
+# Models
+*.joblib
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
